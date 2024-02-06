@@ -25,6 +25,8 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 ## Conclusions
 - Default detection of loan by customer behaviour
 - how much amount of loan should be sanction to customer?
+- What type of customer will able to repay the loan?
+  
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
